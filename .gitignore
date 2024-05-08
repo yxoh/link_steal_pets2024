@@ -1,0 +1,7 @@
+# folders
+datasets/
+GraphGallery/
+data/
+output/
+# files
+*.pyc
