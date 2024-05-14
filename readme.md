@@ -1,4 +1,4 @@
-This is the official implementation for the paper: Link Stealing Attacks Against Inductive Graph Neural Networks.
+This is the official implementation for the paper: [Link Stealing Attacks Against Inductive Graph Neural Networks](https://arxiv.org/pdf/2405.05784).
 
 ## Setup
 ```
